@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1{
+
+  color: #7ac7c4;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+
+}
+
+.myphoto {
+  border-radius: 50%;
+}
+
+.skill {
+  border-radius: 50%;
+}
+
+.skills {
+  border-radius: 50%;
+}
+
+ .top-container{
+   color: #7ac7c4;
+   background-color: #E4F9F5;
+   position: relative;
+   padding-top:100px;
+   font-family: 'Sacramento', cursive;
+
+ }
+ .middle-container{
+   padding-top: 200px;
+
+   background-color: #E4F9F5;
+
+ }
+ .bottom-container{
+   padding-bottom: 100px;
+   padding-top: 200px;
+   background-color: #E4F9F5;
+
+ }
